@@ -1,5 +1,5 @@
 //build an array that stores first & last names. The default value of the array will be empty.
-var firstName = [];
+var firstName = []; //make an array
 var lastName = [];
 //Ask user for a first name, and store it in the first names array.
 var question = prompt("Enter First Name");
